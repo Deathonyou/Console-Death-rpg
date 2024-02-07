@@ -1,0 +1,11 @@
+{
+  "name": "console-death-rpg",
+  "version": "1.0.0",
+  "description": "just a project that i am devolping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deathonyou",
+  "license": "ISC"
+}
