@@ -1,4 +1,4 @@
-const dungeon = new Dungeon({
+new Dungeon({
     width: 25,
     height: 25,
     doorPadding: 1, // Experimental, minimum number of tiles between a door and a room corner (>= 1)
